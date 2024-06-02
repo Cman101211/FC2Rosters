@@ -106,4 +106,6 @@ TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
 PLAYER,ALA,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95
+PLAYER,MICH,QB,Alex Orji,Fr,74,220,95,86,91,92,98,97,94
+PLAYER,MICH,RB,Donovan Edwards,Fr,72,215,95,86,91,92,98,97,94
 END_FILE,,,,,,,,,,,,,
